@@ -1,0 +1,14 @@
+F:\Personal Programming Projects\Recipe-Recollection\bin\Debug\net8.0-windows\Recipe-Recollection.exe
+F:\Personal Programming Projects\Recipe-Recollection\bin\Debug\net8.0-windows\Recipe-Recollection.deps.json
+F:\Personal Programming Projects\Recipe-Recollection\bin\Debug\net8.0-windows\Recipe-Recollection.runtimeconfig.json
+F:\Personal Programming Projects\Recipe-Recollection\bin\Debug\net8.0-windows\Recipe-Recollection.dll
+F:\Personal Programming Projects\Recipe-Recollection\bin\Debug\net8.0-windows\Recipe-Recollection.pdb
+F:\Personal Programming Projects\Recipe-Recollection\obj\Debug\net8.0-windows\Recipe-Recollection.GeneratedMSBuildEditorConfig.editorconfig
+F:\Personal Programming Projects\Recipe-Recollection\obj\Debug\net8.0-windows\Recipe-Recollection.AssemblyInfoInputs.cache
+F:\Personal Programming Projects\Recipe-Recollection\obj\Debug\net8.0-windows\Recipe-Recollection.AssemblyInfo.cs
+F:\Personal Programming Projects\Recipe-Recollection\obj\Debug\net8.0-windows\Recipe-Recollection.csproj.CoreCompileInputs.cache
+F:\Personal Programming Projects\Recipe-Recollection\obj\Debug\net8.0-windows\Recipe-Recollection.dll
+F:\Personal Programming Projects\Recipe-Recollection\obj\Debug\net8.0-windows\refint\Recipe-Recollection.dll
+F:\Personal Programming Projects\Recipe-Recollection\obj\Debug\net8.0-windows\Recipe-Recollection.pdb
+F:\Personal Programming Projects\Recipe-Recollection\obj\Debug\net8.0-windows\Recipe-Recollection.genruntimeconfig.cache
+F:\Personal Programming Projects\Recipe-Recollection\obj\Debug\net8.0-windows\ref\Recipe-Recollection.dll
